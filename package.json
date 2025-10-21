@@ -1,0 +1,21 @@
+{
+  "name": "e-commerece_proshop",
+  "version": "1.0.0",
+  "description": "",
+  "types": "module",
+  "homepage": "https://github.com/jaygray20033/E-Commerce-ProShop#readme",
+  "bugs": {
+    "url": "https://github.com/jaygray20033/E-Commerce-ProShop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygray20033/E-Commerce-ProShop.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
